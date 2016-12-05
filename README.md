@@ -2,6 +2,7 @@
 
 ![Image]
 (./arduboy-pixels/arduboy-pixelartV4-white.png)
+
 A collection of arduboy specific art
 
 If you're using the art, try (if possible) to credit the artists who made these.
