@@ -2,6 +2,8 @@
 
 ![Image]
 (./arduboy-pixels/arduboy-pixelartV4-white.png)
+![Image]
+(./arduboy-vector/Arduboy-vecto.png)
 
 A collection of arduboy specific art
 
