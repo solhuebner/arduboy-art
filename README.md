@@ -5,7 +5,7 @@
 
 A collection of arduboy specific art
 
-If you're using the art, try (if possible) to credit the artists who made these. You could for exmaple post a screenshot and tag the artist :) ... a beer would be nice too.
+If you're using the art, try (if possible) to credit the artists who made these. You could for example post a screenshot and tag the artist :) ... a beer would be nice too.
 
 * Arduboy pixels: @huard_olivier https://twitter.com/huard_olivier
 * Arduboy vector: @huard_olivier https://twitter.com/huard_olivier
